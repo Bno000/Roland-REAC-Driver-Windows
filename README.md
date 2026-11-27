@@ -176,7 +176,7 @@ the Windows Packet Filter driver under NT Kernel's terms. Check whether you need
 
 ### This project
 
-Released under the licence in [`LICENSE`](LICENSE).
+Released under the MIT license in [`LICENSE`](LICENSE).
 
 This project is not affiliated with, endorsed by, or supported by Roland Corporation or
 NT Kernel. "Roland", "REAC" and "V-Mixing System" are trademarks of Roland Corporation.
