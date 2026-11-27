@@ -157,9 +157,6 @@ things, that agreement:
 - prohibits loaning, renting, leasing, sublicensing or transferring the software to a third party
 - prohibits modifying, reverse engineering, decompiling or disassembling the software
 
-**Don't add Roland's files** (REAC.dll, REACPanel.exe, REACResource.dll, Roland's `ndisapi.dll`,
-`rdeandis.sys`, or the installer) to this repository or its releases.
-Point users to Roland's download page instead.
 
 ### NT Kernel Windows Packet Filter
 
