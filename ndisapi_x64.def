@@ -1,0 +1,15 @@
+LIBRARY ndisapi.dll
+EXPORTS
+??0CNdisApi@@QEAA@PEBD@Z=Shim_Ctor
+??1CNdisApi@@UEAA@XZ=Shim_Dtor
+?IsDriverLoaded@CNdisApi@@QEAAHXZ=Shim_IsDriverLoaded
+?GetTcpipBoundAdaptersInfo@CNdisApi@@QEAAHPEAU_TCP_AdapterList@@@Z=Shim_GetTcpipBoundAdaptersInfo
+?SetAdapterMode@CNdisApi@@QEAAHPEAU_ADAPTER_MODE@@@Z=Shim_SetAdapterMode
+?SetHwPacketFilter@CNdisApi@@QEAAHPEAXK@Z=Shim_SetHwPacketFilter
+?GetHwPacketFilter@CNdisApi@@QEAAHPEAXPEAK@Z=Shim_GetHwPacketFilter
+?SetPacketEvent@CNdisApi@@QEAAHPEAX0@Z=Shim_SetPacketEvent
+?SetPacketSignalRate@CNdisApi@@QEAAHPEAXK@Z=Shim_SetPacketSignalRate
+?FlushAdapterPacketQueue@CNdisApi@@QEAAHPEAX@Z=Shim_FlushAdapterPacketQueue
+?ReadPacket@CNdisApi@@QEAAHPEAU_ETH_REQUEST@@@Z=Shim_ReadPacket
+?SendPacketToAdapter@CNdisApi@@QEAAHPEAU_ETH_REQUEST@@@Z=Shim_SendPacketToAdapter
+?SendPacketToMstcp@CNdisApi@@QEAAHPEAU_ETH_REQUEST@@@Z=Shim_SendPacketToMstcp
