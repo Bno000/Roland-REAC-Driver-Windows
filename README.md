@@ -68,6 +68,7 @@ The 64-bit DLL serves 64-bit DAWs, and the 32-bit DLL serves 32-bit hosts and RE
 
 Open REAC Panel, select the Ethernet adapter connected to your REAC network, and check that
 the status reaches **Locked**. Then select the REAC ASIO driver in your DAW.
+<img width="784" height="450" alt="image" src="https://github.com/user-attachments/assets/59044d30-3a7e-40f4-93b5-39204e11a3b1" />
 
 ---
 
