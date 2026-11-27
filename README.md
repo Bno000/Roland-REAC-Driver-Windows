@@ -60,7 +60,11 @@ Download the latest release (or build it yourself, see [Building](#building)) an
 The 64-bit DLL serves 64-bit DAWs, and the 32-bit DLL serves 32-bit hosts and REAC Panel's
 32-bit components. Install both.
 
-### 5. Start REAC Panel
+### 5. Configure the NIC per Roland's instructions, Instead selecting WinPK Filter Lightweight Filter as the only service on the NIC.
+<img width="363" height="468" alt="image" src="https://github.com/user-attachments/assets/40700b7f-89b2-4b80-b023-da0d4f8accb6" />
+
+
+### 6. Start REAC Panel
 
 Open REAC Panel, select the Ethernet adapter connected to your REAC network, and check that
 the status reaches **Locked**. Then select the REAC ASIO driver in your DAW.
